@@ -1,0 +1,170 @@
+.left-nav {
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 429px;
+height: 39px;
+left: 891px;
+top: 54px;
+}
+
+.Howitworks {
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 147px;
+height: 39px;
+left: 0px;
+top: 0px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 16px;
+
+}
+
+.how {
+    position: static;
+width: 158px;
+height: 39px;
+left: 0px;
+top: 0px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 56px;
+/* or 311% */
+
+display: flex;
+align-items: center;
+letter-spacing: -0.005em;
+
+/* Text Color Black */
+
+color: #333333;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+}
+
+.Education {
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 121px;
+height: 39px;
+left: 163px;
+top: 0px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 16px;
+}
+
+.edu {
+    position: static;
+width: 158px;
+height: 39px;
+left: 0px;
+top: 0px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 56px;
+/* or 311% */
+
+display: flex;
+align-items: center;
+letter-spacing: -0.005em;
+
+/* Text Color Black */
+
+color: #333333;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+}
+
+.Contactus {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: static;
+    width: 129px;
+    height: 39px;
+    left: 300px;
+    top: 0px;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 0px 16px;    
+}
+
+.contact {
+    position: static;
+    width: 129px;
+    height: 39px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 56px;
+    /* or 311% */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.005em;
+    
+    /* Text Color Black */
+    
+    color: #333333;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
